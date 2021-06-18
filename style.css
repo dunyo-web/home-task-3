@@ -1,0 +1,180 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.site{
+    width: 100%;
+    height: 1000px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+}
+.menu{
+    height: 115px;
+    /* border: 1px solid blue; */
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+.menu p{
+    text-indent: 5px;
+    margin-top: 10px;
+    float: left;
+    height: 115px;
+}
+.menu img{
+    float: left;
+    width: 200px;
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+    /* height: 70px; */
+    float: left;
+    width: 130px;
+    text-align: center;
+    line-height: 115px;
+}
+.menu ul li a{
+    display: block;
+    width: 130px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.menu select{
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+    margin-left: 50px;
+    margin-top: 30px;
+  
+}
+.menu select option{
+    text-decoration: none;
+    line-height: 115px;
+    padding-top: 20px;
+}
+.context{
+    background-image: url(diyora/Screenshot_2021-05-16-13-10-51-1.png);
+    height: 600px;
+    width: 1200px;
+    margin-left:70px;
+}
+.content{
+    /* height: 500px; */
+    /* border: 1px solid  blue; */
+}
+h3{
+    text-transform: uppercase;
+    padding-top: 20px;
+    text-align: center;
+}
+.rasm{
+    width: 80%;
+    /* float: left; */
+    margin: 0 auto;
+    /* height: 300px; */
+    padding-top: 20px;
+}
+.rasm p{
+    text-transform: uppercase;
+    margin-left: 30px;
+    padding-top: 10px;
+    /* margin-right: 5px; */
+    /* text-align: justify; */
+}
+.rasm1 {
+    float: left;
+    width: 34%;
+}
+.rasm1 img{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.rasm2 {
+    float: left;
+    width: 33%;
+}
+.rasm2 img{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.rasm3 {
+    float: left;
+    width: 33%;
+}
+.rasm3 img{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.rasm{
+    width: 80%;
+    /* float: left; */
+    margin: 0 auto;
+    height: 300px;
+    padding-top: 20px;
+}
+.rasm1 {
+    float: left;
+    width: 33%;
+}
+.rasm1 img{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.rasm2 {
+    float: left;
+    width: 33%;
+}
+.rasm2 img{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.rasm3 {
+    float: left;
+    width: 33%;
+}
+.rasm3 img{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.content1{
+    height: 100px;
+}
+.content1 h3{
+    color: blue;
+    float: left;
+    margin-left: 170px;
+    padding-top: 20px;
+}
+.content1 img{
+    width: 300px;
+    float: left;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.footer{
+    height: 300px;
+    background-color: blue;
+}
+.box1{
+    float: left;
+    color: white;
+    width: 300px;
+    margin-left: 30px;
+    padding-top: 20px;
+}
